@@ -6,14 +6,24 @@
     <description>Recent content in Posts on Natalie Grasser&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 May 2021 19:16:11 +0200</lastBuildDate><atom:link href="https://natgra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 May 2021 20:20:31 +0200</lastBuildDate><atom:link href="https://natgra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where the Heck to Start</title>
+      <link>https://natgra.github.io/posts/where-the-heck-to-start/</link>
+      <pubDate>Sat, 15 May 2021 20:20:31 +0200</pubDate>
+      
+      <guid>https://natgra.github.io/posts/where-the-heck-to-start/</guid>
+      <description>How to set up a blog - where the heck do I start? To set up a blog, there are sooooo many uncountable ways. You can use an existing platform, like dev.to or medium, creating a &amp;ldquo;new&amp;rdquo; blog from scratch with Wordpress, or use GitHub pages.
+As I already had an account for GitHub, and feel quite comfortable with it, I decided for as setup with Github pages and hugo. So, I began with creating an empty repository with my username, &amp;ldquo;natgra.</description>
+    </item>
+    
     <item>
       <title>My first post - or the throughs about deciding for a blog</title>
       <link>https://natgra.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 15 May 2021 19:16:11 +0200</pubDate>
       
       <guid>https://natgra.github.io/posts/my-first-post/</guid>
-      <description>My first post - or the throughs about deciding for a blog To have a blog, or not to have one I thought about it quite some time: starting a blog. It seems like an adventure. You need to figure out a few things in advance, like what do you want to talk about?, where do I host the blog?, and where the heck do I start?. It seemed to be a lot of work, so here is my journey and why I started:</description>
+      <description>My first post - or the thoughs about deciding for a blog To have a blog, or not to have one I thought about it quite some time: starting a blog. It seems like an adventure. You need to figure out a few things in advance, like what do you want to talk about?, which platform do I want to use?, and where the heck do I start?. It seemed to be a lot of work, so here is my journey and why I started:</description>
     </item>
     
   </channel>

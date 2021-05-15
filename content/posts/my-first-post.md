@@ -4,7 +4,7 @@ date: 2021-05-15T19:16:11+02:00
 draft: true
 ---
 
-# My first post - or the throughs about deciding for a blog
+# My first post - or the thoughs about deciding for a blog
 
 ## To have a blog, or not to have one
 I thought about it quite some time: starting a blog.  It seems like an adventure. You need to figure out a few things in advance, like _what do you want to talk about?_, _which platform do I want to use?_, and _where the heck do I start?_. It seemed to be a lot of work, so here is my journey and why I started:
@@ -13,7 +13,7 @@ First, I want to improve on a technical level. Writing about tech-related topics
 
 Secondly, a blog - or a convincing web presence in general - seems to be a desirable outcome in the tech scene. There is almost no one who does not have their own website. Of course, this is not mandatory to have a web presence, but it seems to be useful for certain.
 
-Thirdly and finally, my curiousity has always outweight my dedication to specialize. And setting up a new project is just another advanture into unknown waters.  
+Thirdly and finally, my curiousity has always outweight my dedication to specialize. And setting up a new project is just another adventure into unknown waters.  
 During my journey as Software Engineer and even before, I have seen a bunch of technologies, different frameworks, and have touched several programming languages. If you would have asked me a few years ago where the journey of studying Computer Science is going, I probably would have answered that I would like to do human-machine communication professionally. Now, I am "stuck" writing backend services. Lately, I have discovered DevOps, and got interested in that.  
 So you see, I am still discovering new areas.
 
