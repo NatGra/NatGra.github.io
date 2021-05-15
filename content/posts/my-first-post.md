@@ -1,13 +1,13 @@
 ---
-title: "My first post - or, the advanture of setting up a blog."
+title: "My first post - or the throughs about deciding for a blog"
 date: 2021-05-15T19:16:11+02:00
 draft: true
 ---
 
-# My first post - or, the advanture of setting up a blog
+# My first post - or the throughs about deciding for a blog
 
 ## To have a blog, or not to have one
-I thought about it quite some time: starting a blog.  It seems like an adventure. You need to figure out a few things in advance, like _what do you want to talk about?_, _where do I host the blog?_, and _where the heck do I start?_. It seemed to be a lot of work, so here is my journey and why I started:
+I thought about it quite some time: starting a blog.  It seems like an adventure. You need to figure out a few things in advance, like _what do you want to talk about?_, _which platform do I want to use?_, and _where the heck do I start?_. It seemed to be a lot of work, so here is my journey and why I started:
 
 First, I want to improve on a technical level. Writing about tech-related topics makes you actually **think** about them, and trying to explain a complex issue to someone makes you rethink the issue. Probably even from a different angle. 
 
@@ -18,4 +18,4 @@ During my journey as Software Engineer and even before, I have seen a bunch of t
 So you see, I am still discovering new areas.
 
 On the other side, maintaining a blog seems like a lot of work and dedication. Finding topics to write about, preparing articles to be published, maintaining the pages, and probably way more things to be done.  
-But I feel willing to take the challenge. The benefits are convincing. So here I am now, trying to set up my first website, including the first post. I think I will be writing about the questions from the beginning, _where do I host the blog?_ and _where the heck do I start?_, in another article, they look like a good starting point. Here we go ...
+But I feel willing to take the challenge. The benefits are convincing. So here I am now, trying to set up my first website, including the first post. I think I will be writing about the question from the beginning, _where the heck do I start?_, in another article, they look like a good starting point. Here we go ...
