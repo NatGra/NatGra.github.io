@@ -1,7 +1,7 @@
 ---
 title: "My first post - or the throughs about deciding for a blog"
 date: 2021-05-15T19:16:11+02:00
-draft: true
+publishdate: 2021-05-16T19:00:00
 ---
 
 # My first post - or the thoughs about deciding for a blog
